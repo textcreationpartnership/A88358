@@ -1,0 +1,933 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A list of the prisoners of vvar, vvho are officers in commission, in custody of the Marshal-General. Tuesday the ninth of September, 1651. Ordered by the Parliament, that this list be forthwith printed and published. Hen: Scobell, Cleric. Parliamenti.</title>
+         </titleStmt>
+         <extent>Approx. 22KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88358</idno><idno type="EEBO-CITATION">99862971</idno>
+  <idno type="VID">115151</idno>
+  <idno type="EEBO-PROQUEST">2240960809</idno>
+  
+            <idno type="STC">Wing L2497</idno>
+            <idno type="STC">Thomason E641_9</idno>
+            <idno type="STC">ESTC R202798</idno>
+            <idno type="PROQUEST">99862971</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99862971e"/>
+            <note>(EEBO-TCP ; phase 2, no. A88358)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 115151)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 98:E641[9])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A list of the prisoners of vvar, vvho are officers in commission, in custody of the Marshal-General. Tuesday the ninth of September, 1651. Ordered by the Parliament, that this list be forthwith printed and published. Hen: Scobell, Cleric. Parliamenti.</title>
+                  <author>England and Wales. Parliament. aut</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by John Field, printer to the Parliament of England,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1651.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Prisoners of war --  England --  Early works to 1800.</term>
+               <term type="topical_term">Prisoners of war --  Scotland --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+               <term type="geographic_name">Scotland --  History --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:115151:1"/>
+            <p>A LIST OF THE Prisoners of War, VVho are Officers in Commission, in Custody of the MARSHAL-GENERAL.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <dateline>
+                              <date>
+                                 <hi>Tuesday the ninth of</hi> September, 1651.</date>
+                           </dateline>
+                        </opener>
+                        <p>
+                           <hi>ORdered by the Parliament, That this List be forthwith Printed and Published.</hi>
+                        </p>
+                        <closer>
+                           <signed>Hen: Scobell, Cleric. Parliamenti.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <hi>LONDON:</hi> Printed by JOHN FIELD, Printer to the Parliament of <hi>England.</hi> 1651.</p>
+         </div>
+      </front>
+      <body>
+         <div type="list">
+            <pb n="2" facs="tcp:115151:2"/>
+            <head>A List of the Prisoners of War, who are Officers in Commis<g ref="char:EOLhyphen"/>sion, in Custody of the Marshal-General.</head>
+            <list>
+               <item>RObert <hi>Earl of</hi> Carnwarth.</item>
+               <item>
+                  <hi>Duke</hi> Hamilton.</item>
+               <item>Alex: <hi>Earl of</hi> Kelley.</item>
+               <item>John <hi>L rd</hi> Synclare.</item>
+               <item>
+                  <hi>Sir</hi> John Packington.</item>
+            </list>
+            <list>
+               <head>General Officers.</head>
+               <item>
+                  <hi>M. General</hi> Petticotty.</item>
+               <item>
+                  <hi>Major General</hi> Mont<g ref="char:EOLhyphen"/>gomery.</item>
+               <item>James Wyns <hi>Gentleman of the Ordnance.</hi>
+               </item>
+               <item>Archbald Waddal <hi>Ad<g ref="char:EOLhyphen"/>jutant Gen. of the Foot.</hi>
+               </item>
+               <item>
+                  <hi>Martial Gen:</hi> White.</item>
+               <item>Sam: Fosset <hi>Enginere.</hi>
+               </item>
+            </list>
+            <list>
+               <head>Colonels to Horse.</head>
+               <item>
+                  <hi>Colonel</hi> William Hurrey <hi>sorely wounded.</hi>
+               </item>
+               <item>
+                  <hi>Col:</hi> William Keith.</item>
+               <item>
+                  <hi>Col:</hi> John Chishallum.</item>
+               <item>
+                  <hi>Earl of</hi> Rothes <hi>Colonel to Horse.</hi>
+               </item>
+               <item>Lodowick Dramond <hi>sore hurt.</hi>
+               </item>
+               <item>
+                  <hi>Colonel</hi> Bendbow.</item>
+               <item>
+                  <hi>Colonel</hi> Graves.</item>
+               <item>
+                  <hi>Sir</hi> Tho: Urquart.</item>
+               <item>John Butler <hi>Colonel Reformado.</hi>
+               </item>
+               <item>
+                  <hi>Sir</hi> Tho: Thompson, <hi>no Charge.</hi>
+               </item>
+               <item>Tho: Hume <hi>Reformado.</hi>
+               </item>
+               <item>George Keeth.</item>
+               <item>James Turner.</item>
+               <item>
+                  <hi>Sir</hi> Alexander Forbes.</item>
+            </list>
+            <list>
+               <head>Colonels to Foot.</head>
+               <item>
+                  <hi>Colonel Sir</hi> George Doreglas.</item>
+               <item>
+                  <hi>Col:</hi> Turner.</item>
+               <item>
+                  <hi>Colonel</hi> Freskin.</item>
+               <item>
+                  <hi>Lord</hi> Spyn <hi>Colonel.</hi>
+               </item>
+               <item>
+                  <hi>Col:</hi> Boza <hi>of Dragoons.</hi>
+               </item>
+               <item>
+                  <hi>Sir</hi> James Graham.</item>
+            </list>
+            <list>
+               <head>Lieu: Colonels to Horse.</head>
+               <item>Thomas Kenedy.</item>
+               <item>John Lesly.</item>
+               <item>John Fowler.</item>
+               <item>Gilbert Chambel.</item>
+               <item>James Forbes.</item>
+               <item>
+                  <hi>Sir</hi> David Ogleby.</item>
+               <item>George Montgomery.</item>
+               <item>Jo: Scot.</item>
+               <item>Ja: Ogleby <hi>Reformado.</hi>
+               </item>
+            </list>
+            <list>
+               <head>Lieutenant Col: to Foot.</head>
+               <item>
+                  <hi>Lieu: Col:</hi> Lundy.</item>
+               <item>
+                  <hi>Lieu: Col.</hi> Hudson.</item>
+               <item>Alexander Munroe.</item>
+               <item>George Keeth.</item>
+               <item>Robert Cambet.</item>
+               <item>James Alexander.</item>
+               <item>George Forbes.</item>
+               <item>Alexander Bruce.</item>
+            </list>
+            <list>
+               <head>Majors of Horse.</head>
+               <item>James Lesly.</item>
+               <item>Thomas Wemps.</item>
+               <item>
+                  <hi>Major</hi> Barclay.</item>
+               <item>Andrew Kerr.</item>
+               <item>James Mercier.</item>
+               <item>Hugh Crawford.</item>
+               <item>David Lumsdale <hi>sore wounded.</hi>
+               </item>
+               <item>Christopher Wormesley <hi>Adjutant.</hi>
+               </item>
+            </list>
+            <list>
+               <head>Majors of Foot.</head>
+               <item>August. Mackland.</item>
+               <item>
+                  <hi>Major</hi> Borthwick.</item>
+               <item>James Law.</item>
+               <item>VVilliam Belford.</item>
+               <item>John St. Michel <hi>to Dra:</hi>
+               </item>
+               <item>Andrew Duncom.</item>
+               <item>Jo: Rotherford.</item>
+               <item>
+                  <hi>Major</hi> Sterlin.</item>
+               <item>David Crimseed.</item>
+               <item>Pat. Hardy.</item>
+               <item>Walton Kern.</item>
+               <item>Hugh Mackey.</item>
+               <item>William Askin.</item>
+            </list>
+            <list>
+               <head>Captains to Horse.</head>
+               <item>Alexander Bruce.</item>
+               <item>Robert Ker.</item>
+               <item>Robert Buchanan.</item>
+               <item>Patrick Gershore.</item>
+               <item>Archibold Elliot.</item>
+               <item>Thomas Crawford.</item>
+               <item>George Mackadan.</item>
+               <item>Alex: Montgomery.</item>
+               <item>Robert Montgomery.</item>
+               <pb n="3" facs="tcp:115151:2"/>
+               <item>
+                  <hi>Sir</hi> Philip Enstru<g ref="char:EOLhyphen"/>ther.</item>
+               <item>Roger Mountain.</item>
+               <item>William Keith.</item>
+               <item>George Gordon.</item>
+               <item>George Finchin<g ref="char:EOLhyphen"/>mouty.</item>
+               <item>John Ross.</item>
+               <item>William Dumbar.</item>
+               <item>James Keith.</item>
+               <item>Adam Colvin.</item>
+               <item>David Lyon.</item>
+               <item>Pat. Murray.</item>
+               <item>Archibald Elliot.</item>
+               <item>Jo: Balentine.</item>
+               <item>James Stewart.</item>
+               <item>George Askin.</item>
+               <item>all three wounded very much.
+<list>
+                     <item>Archibald Calvin,</item>
+                     <item>James English,</item>
+                     <item>James Bruce,</item>
+                  </list>
+               </item>
+               <item>James Arnot.</item>
+               <item>Gerrerd Erwin.</item>
+               <item>Andrew Blayer <hi>wounded.</hi>
+               </item>
+               <item>Joseph Herenot.</item>
+               <item>Thomas Johnston <hi>wounded.</hi>
+               </item>
+               <item>Jo: Morison.</item>
+               <item>Archibald Calvin.</item>
+               <item>James Bruce.</item>
+               <item>John Hume.</item>
+               <item>Jo: Hay.</item>
+            </list>
+            <list>
+               <head>Captains to Foot.</head>
+               <item>Patrick Gordon.</item>
+               <item>Andrew Hey.</item>
+               <item>George Graham.</item>
+               <item>James Oliphant.</item>
+               <item>Francis Panton.</item>
+               <item>
+                  <hi>Captain</hi> Fyn.</item>
+               <item>Alexander Foster.</item>
+               <item>John Smith.</item>
+               <item>John Ker:</item>
+               <item>James Gilbert.</item>
+               <item>Archibald Stuart.</item>
+               <item>James Keith.</item>
+               <item>Robert Sterton.</item>
+               <item>Adam Gurdon.</item>
+               <item>Patrick Lindsey.</item>
+               <item>Robert Forbes.</item>
+               <item>James English.</item>
+               <item>George Lessels.</item>
+               <item>Henry Brown.</item>
+               <item>Alexander Harriot <hi>Waggon-Master Ge<g ref="char:EOLhyphen"/>neral.</hi>
+               </item>
+               <item>
+                  <hi>Captain</hi> Brown.</item>
+               <item>Arthur Dilgarno.</item>
+               <item>Robert Johnson.</item>
+               <item>William Jawyn.</item>
+               <item>James Stuart.</item>
+               <item>George Fourbarn.</item>
+               <item>James Blackwater.</item>
+               <item>Mark Carr.</item>
+               <item>Henry Shaw.</item>
+               <item>Francis Agnew.</item>
+               <item>William Brothwick.</item>
+               <item>William Lawson.</item>
+               <item>Alexander Munroe.</item>
+               <item>George Buchanan.</item>
+               <item>James Baclzy.</item>
+               <item>Patrick Monteith.</item>
+               <item>George Garner.</item>
+               <item>James Hamilton.</item>
+               <item>Alexander Stewart.</item>
+               <item>Matthew Hamilton.</item>
+               <item>Alexander Kinkade.</item>
+               <item>Thomas Freskin.</item>
+               <item>John Mackemzy.</item>
+               <item>Hector Mackemzy.</item>
+               <item>Alexander Graham.</item>
+               <item>Robert Minnes.</item>
+               <item>Alexander Benn.</item>
+               <item>George Pringle.</item>
+               <item>Robert Mackemzy.</item>
+               <item>Robert Monroe.</item>
+               <item>John Mackemzy.</item>
+               <item>Alexan: Ferguson.</item>
+               <item>Robert Stewart.</item>
+               <item>Alexander Ogilby.</item>
+               <item>Alexander Askin <hi>Reformado.</hi>
+               </item>
+               <item>George Abercromy.</item>
+               <item>James Urquhart <hi>Re<g ref="char:EOLhyphen"/>formado.</hi>
+               </item>
+               <item>Adam Coots.</item>
+               <item>Will: Krinimund.</item>
+               <item>James Melam <hi>Re<g ref="char:EOLhyphen"/>formado.</hi>
+               </item>
+               <pb n="4" facs="tcp:115151:3"/>
+               <item>Jo: Forehead <hi>Refor<g ref="char:EOLhyphen"/>mado.</hi>
+               </item>
+               <item>Iames Blayer.</item>
+               <item>Robert Stewart <hi>Re<g ref="char:EOLhyphen"/>formado.</hi>
+               </item>
+               <item>David Achison <hi>Re<g ref="char:EOLhyphen"/>formado.</hi>
+               </item>
+               <item>Thomas Gorden.</item>
+               <item>Iames Forbes <hi>wounded.</hi>
+               </item>
+               <item>Robert Matlin <hi>Gen<g ref="char:EOLhyphen"/>tleman of Note.</hi>
+               </item>
+               <item>Io: Scot.</item>
+               <item>Io: Nubet.</item>
+               <item>Andrew Arnet <hi>Re<g ref="char:EOLhyphen"/>formado.</hi>
+               </item>
+               <item>Ja: Blaket.</item>
+               <item>Alexander Keeth.</item>
+               <item>Roy Movate.</item>
+            </list>
+            <list>
+               <head>Lieutenants to Horse.</head>
+               <item>William Hay.</item>
+               <item>Will: Montgomery.</item>
+               <item>Iames Lockhart.</item>
+               <item>Alex: Calender.</item>
+               <item>Iohn Montray.</item>
+               <item>Io: Kerr.</item>
+               <item>Adam Bellenden.</item>
+               <item>Iames Wilson.</item>
+               <item>Iohn Wilkin.</item>
+               <item>Peter Cochran.</item>
+               <item>Andrew Meldrum.</item>
+               <item>Io: Kukley.</item>
+               <item>William Dowglas.</item>
+               <item>Ochter Cambel.</item>
+               <item>Walter Sibbet.</item>
+               <item>Hugh Craig.</item>
+               <item>Peter Harrald.</item>
+               <item>Io: Iohnson.</item>
+               <item>Charls Cambel.</item>
+               <item>George Tanton.</item>
+               <item>Patrick Cocburn.</item>
+               <item>Thomas Alexander.</item>
+               <item>
+                  <hi>Lieu:</hi> Hamilton.</item>
+               <item>David Seaton.</item>
+               <item>Iames Weirr.</item>
+               <item>William Maxwel.</item>
+               <item>Alexander Dundas.</item>
+               <item>Iohn Blomry.</item>
+               <item>William Lockhart.</item>
+               <item>Iohn Brown.</item>
+               <item>Adam Weere.</item>
+               <item>George Scot.</item>
+               <item>Patrick Sherswood.</item>
+               <item>Iohn Castayres.</item>
+               <item>Robert Farcher.</item>
+               <item>Iacob <hi>van</hi> Halst.</item>
+               <item>Archibold Shaw.</item>
+               <item>Io: Ramsie <hi>Lieute<g ref="char:EOLhyphen"/>nant to Dragoons.</hi>
+               </item>
+               <item>Thomas Kerr.</item>
+               <item>Iohn Manypenney.</item>
+               <item>Io: Lutwych.</item>
+               <item>Hugh Douglas.</item>
+               <item>George Scot.</item>
+               <item>Robert Fletcher.</item>
+               <item>Adam Wear.</item>
+               <item>William Blayer.</item>
+               <item>Io: Hamilton.</item>
+               <item>George Robertson.</item>
+               <item>Men: Maigee.</item>
+               <item>Robert Parefey.</item>
+               <item>Io: Patterson.</item>
+               <item>Henry Savage.</item>
+               <item>Iohn Crawford.</item>
+               <item>Iames Keeth.</item>
+               <item>Thomas Iohnston.</item>
+            </list>
+            <list>
+               <head>Lieutenants of Foot.</head>
+               <item>Arthur Forbes.</item>
+               <item>David Ramsey.</item>
+               <item>
+                  <hi>Lieu:</hi> Robertson.</item>
+               <item>William Ginn.</item>
+               <item>David Smart.</item>
+               <item>Andrew Tyry.</item>
+               <item>Robert Freskin.</item>
+               <item>Archibald Garn.</item>
+               <item>Iohn Cant.</item>
+               <item>Rory Mackeinzy.</item>
+               <item>William Watson.</item>
+               <item>Gilbert Montireif.</item>
+               <item>William Paeirly.</item>
+               <item>Robert Lindsey.</item>
+               <item>Robert Dundas.</item>
+               <item>Francis Sincle.</item>
+               <item>Angus Badzy.</item>
+               <item>Iohn Cambel.</item>
+               <item>Rory Kennedy.</item>
+               <item>Iohn Stewart.</item>
+               <pb n="5" facs="tcp:115151:3"/>
+               <item>Edward Lizard.</item>
+               <item>Alexander Hay.</item>
+               <item>Iohn Brown.</item>
+               <item>George Bosewel.</item>
+               <item>Alexander Hay.</item>
+               <item>Robert Gibb.</item>
+               <item>Alexander Watson.</item>
+               <item>Iames Heartley.</item>
+               <item>Edward Fylk.</item>
+               <item>Iohn Lyddal.</item>
+               <item>Iames Gibb.</item>
+               <item>Walter Baron.</item>
+               <item>Iohn Strayton.</item>
+               <item>Philip Crawl.</item>
+               <item>Alexander Murray.</item>
+               <item>Pamel Cambel.</item>
+               <item>William Stewart.</item>
+               <item>Alexander Ker.</item>
+               <item>George Gordon.</item>
+               <item>Thomas Brokefield.</item>
+               <item>Iohn Levingston.</item>
+               <item>Iohn Wilson.</item>
+               <item>Iohn Macketter.</item>
+               <item>Iohn Macklord.</item>
+               <item>Laughan Shaw.</item>
+               <item>Alex: Macomzy.</item>
+               <item>Iohn Hofkirk.</item>
+               <item>Penald Mackemzy.</item>
+               <item>Iohn Munroe.</item>
+               <item>Robert Munroe.</item>
+               <item>Walter Lutherland.</item>
+               <item>Iohn Ross.</item>
+               <item>Iohn Moor.</item>
+               <item>Lawrence Caddel.</item>
+               <item>Robert Watson.</item>
+               <item>Robert Corser.</item>
+               <item>William Gray.</item>
+               <item>Iohn Gray.</item>
+               <item>Pan: Munroe.</item>
+               <item>William Forsyth.</item>
+               <item>Iohn Froter.</item>
+               <item>Will: Drummond.</item>
+               <item>Iames Bennet.</item>
+               <item>Iames Davis.</item>
+               <item>Iames Seers.</item>
+               <item>William Freskin.</item>
+               <item>Iohn Levigston.</item>
+               <item>Iohn Keir.</item>
+               <item>William Stewart.</item>
+               <item>Iohn Abernathy.</item>
+               <item>Archibold Reed.</item>
+               <item>Robert Douglas.</item>
+               <item>Iohn Munroe.</item>
+               <item>William VVatson.</item>
+               <item>Iohn Hilston.</item>
+               <item>Io: English.</item>
+               <item>Renold Bane.</item>
+               <item>William Ellicot.</item>
+               <item>Robert Kinard.</item>
+               <item>Walter Movate.</item>
+               <item>Jo: Grahame.</item>
+               <item>Robert Nichol.</item>
+               <item>James Hume.</item>
+            </list>
+            <list>
+               <head>Cornets of Horse.</head>
+               <item>Alex: Anderson.</item>
+               <item>Robert Steven.</item>
+               <item>George Hume.</item>
+               <item>John Gershore.</item>
+               <item>James Benin.</item>
+               <item>William Seaton.</item>
+               <item>Thomas Forrest.</item>
+               <item>James Maxwel.</item>
+               <item>Cornet Stewart.</item>
+               <item>James Oswel.</item>
+               <item>James Marshal.</item>
+               <item>George Tramle.</item>
+               <item>James Grahame.</item>
+               <item>Edmond Armstrong.</item>
+               <item>John Forbes.</item>
+               <item>Robert Frassop.</item>
+               <item>William Gordon.</item>
+               <item>Alexander Foster.</item>
+               <item>Hugh Cambel.</item>
+               <item>William Ford.</item>
+               <item>Colin James.</item>
+               <item>James Wilson.</item>
+               <item>Neman Moor.</item>
+               <item>J. Car.</item>
+               <item>Jo: Blackwel.</item>
+               <item>Jo: Paxton.</item>
+               <item>Jo: Crawle.</item>
+               <item>Gilbert Gryer.</item>
+               <item>Robert Scott.</item>
+               <item>James Leslie.</item>
+               <item>Alexander Hay.</item>
+               <item>George Watson.</item>
+               <item>George Lindsey.</item>
+               <item>Robert Melven.</item>
+               <item>Robert Martyn.</item>
+               <pb n="6" facs="tcp:115151:4"/>
+               <item>Walter Murray.</item>
+               <item>Alex: Shomish.</item>
+               <item>Alex: Hannay.</item>
+               <item>James Leslie.</item>
+               <item>Jo: Leslie.</item>
+               <item>Adam Leslie.</item>
+               <item>William Rauton.</item>
+               <item>Cornet Frayer.</item>
+               <item>David Gawyn.</item>
+               <item>Thomas Brown.</item>
+               <item>George Mason.</item>
+               <item>David Douglas.</item>
+               <item>Jo: Macrawe.</item>
+               <item>Gabriel Maxwel.</item>
+               <item>Pat: Craighenhelt.</item>
+               <item>William Kyle.</item>
+               <item>James Wood.</item>
+               <item>Gilbert Mackneil.</item>
+               <item>Patrick Kinroe.</item>
+               <item>Will: Cunningham.</item>
+               <item>VVilliam Kennedy.</item>
+               <item>Io: Bosewel.</item>
+               <item>Alexander Lyon.</item>
+               <item>Io: Thompson.</item>
+               <item>Hector Munroe.</item>
+               <item>Robert Sleigh.</item>
+               <item>Iohn Kerine.</item>
+               <item>Thomas Kerine.</item>
+               <item>W: Urquhart, <hi>Gent.</hi>
+               </item>
+               <item>Thomas Fowl.</item>
+               <item>Thomas Orchat.</item>
+               <item>Alex: Ogleby.</item>
+               <item>Andr: Macdowgal.</item>
+               <item>William Clark.</item>
+               <item>Iames Anderson.</item>
+               <item>Io: Hamilton.</item>
+               <item>Robert Armstrong.</item>
+               <item>Iames Hasting.</item>
+               <item>Ia: Iohnston.</item>
+               <item>William Clark.</item>
+               <item>William Carnes.</item>
+            </list>
+            <list>
+               <head>Ensigns.</head>
+               <item>James Reddoch.</item>
+               <item>Iames Russel.</item>
+               <item>Alex: Dempster.</item>
+               <item>William Ross.</item>
+               <item>William Sutherland.</item>
+               <item>Daniel Gibson.</item>
+               <item>Iohn Vasse.</item>
+               <item>Henry Olyphant.</item>
+               <item>Alex. Reddoch.</item>
+               <item>Alexander Hay.</item>
+               <item>Iohn Murehead.</item>
+               <item>Alexander Iohnson.</item>
+               <item>Robert Grevise.</item>
+               <item>Iames Wood.</item>
+               <item>George Abernethy.</item>
+               <item>Iohn Mumes.</item>
+               <item>Iohn Buchanan.</item>
+               <item>George Rosse.</item>
+               <item>Hugh Munroe.</item>
+               <item>David Rosse.</item>
+               <item>Patrick Elliot.</item>
+               <item>Io: Cowan.</item>
+               <item>Nicholas Erral.</item>
+               <item>Iames Graham.</item>
+               <item>Alexander Forrest.</item>
+               <item>Iames Murray.</item>
+               <item>Iohn Iackson.</item>
+               <item>Iohn Reach.</item>
+               <item>Patrick Jimes.</item>
+               <item>Walter Rosse.</item>
+               <item>Farcher Machmien.</item>
+               <item>Iohn Bayn.</item>
+               <item>Kerce Urchart.</item>
+               <item>Thomas Urchart.</item>
+               <item>Alexander Machie.</item>
+               <item>Augustine Mackie.</item>
+               <item>Iohn Tomson.</item>
+               <item>Iames Wartlaw.</item>
+               <item>Daniel Mackotter.</item>
+               <item>Iohn Mackfarsow.</item>
+               <item>George Strauchan.</item>
+               <item>Andrew Keir.</item>
+               <item>Io: Kellie.</item>
+               <item>George Bruce.</item>
+               <item>Iohn Wach.</item>
+               <item>Iohn Walter.</item>
+               <item>Alex: Gilpatrick.</item>
+               <item>Alex: Dixon.</item>
+               <item>Numan Graham.</item>
+               <item>William Ferguson.</item>
+               <item>William English.</item>
+               <item>George Angus.</item>
+               <item>Thomas Irchart.</item>
+               <item>Iames Huppo.</item>
+               <item>William Walker.</item>
+               <item>Patrick Honiman.</item>
+               <item>Robert Fithie.</item>
+               <pb n="7" facs="tcp:115151:4"/>
+               <item>Iames Brown.</item>
+               <item>Hugh Black.</item>
+               <item>David Wilson.</item>
+               <item>Alex: Blackwater.</item>
+               <item>Thomas Tweedy.</item>
+               <item>Iohn Chambers.</item>
+               <item>Alexander Frayer.</item>
+               <item>Iohn Ninimo.</item>
+               <item>Angus Fraster.</item>
+               <item>Iohn Cambel.</item>
+               <item>Iohn Macleyn.</item>
+               <item>Io: Magown.</item>
+               <item>Iames Diel.</item>
+               <item>Iohn Iohnson.</item>
+               <item>Peter Maclaghlom.</item>
+               <item>Iohn Mitchel.</item>
+               <item>Alex: Fleming.</item>
+               <item>Tho: Williamson.</item>
+               <item>Iohn Saints.</item>
+               <item>Alexander Kemp.</item>
+               <item>Robert Boyd.</item>
+               <item>Iohn Charters.</item>
+               <item>Ralph Walker.</item>
+               <item>Iohn Ogston.</item>
+               <item>Iames Petticrew.</item>
+               <item>Walter Mill.</item>
+               <item>Nathaniel Harlaw.</item>
+               <item>Iohn Gyler.</item>
+               <item>Iohn Hay.</item>
+               <item>Iohn Molyson.</item>
+               <item>Bat. Hamilton.</item>
+               <item>William Dobbie.</item>
+               <item>Thomas Reddiman.</item>
+               <item>Iames Dormond.</item>
+               <item>George Gall.</item>
+               <item>Io: Fulton.</item>
+               <item>Io: Hamilton.</item>
+               <item>Iames Rigg.</item>
+               <item>Pat Kilmany.</item>
+               <item>David Crag.</item>
+               <item>Andrew Iohnston.</item>
+               <item>Jesper Nash.</item>
+            </list>
+            <list>
+               <head>Quarter-masters.</head>
+               <item>Charls Hill.</item>
+               <item>Iohn Hamilton.</item>
+               <item>William Davidson.</item>
+               <item>Iames Edmunston.</item>
+               <item>Iames Spire.</item>
+               <item>William Forbes.</item>
+               <item>Ochter Dambar.</item>
+               <item>Alex: Murehead.</item>
+               <item>Io: Bizet.</item>
+               <item>Iohn Krublow.</item>
+               <item>Io: Lawson.</item>
+               <item>Io: Macgie.</item>
+               <item>Alex: Henderson.</item>
+               <item>Andrew Baltoe.</item>
+               <item>George Seaton.</item>
+               <item>Iames Hannay.</item>
+               <item>Iohn Ramsay.</item>
+               <item>Mathew Bacbrie.</item>
+               <item>Andrew Horn.</item>
+               <item>William Maxwell.</item>
+               <item>Mungoe Beton.</item>
+               <item>Thomas Carie.</item>
+               <item>Io: Boker.</item>
+               <item>George Reid.</item>
+               <item>Thomas Frayer.</item>
+               <item>Frederick Iohnson.</item>
+               <item>Thomas Wilson.</item>
+               <item>William Skeyn.</item>
+               <item>Gilbert Knight.</item>
+               <item>David Piggot.</item>
+               <item>Iohn Creston.</item>
+               <item>William Ingram.</item>
+               <item>Iames Ramsey.</item>
+               <item>Iohn Laird.</item>
+               <item>Hugh Ray.</item>
+               <item>Walter Watson.</item>
+               <item>Iames Gabreth.</item>
+               <item>Io: Moor.</item>
+               <item>Io: Hay.</item>
+               <item>Rob: Kirkpitrick.</item>
+               <item>Alexander King.</item>
+               <item>Iohn Weer.</item>
+               <item>Charls Pot.</item>
+               <item>Geo: Abercrumbie.</item>
+               <item>Iohn Macanleys.</item>
+               <item>William Macanleys.</item>
+               <item>Thomas Dowglas.</item>
+               <item>Thomas Bayly.</item>
+               <item>Iohn Fisher.</item>
+               <item>David Cowter.</item>
+               <item>Roe Taylor.</item>
+               <item>Patrick Gray.</item>
+               <item>William Tomson.</item>
+               <item>Iames Dundas.</item>
+               <item>Iohn Maree.</item>
+               <item>Iohn Hamilton.</item>
+               <pb n="8" facs="tcp:115151:5"/>
+               <item>Iohn Graham.</item>
+               <item>Patrick Stewart.</item>
+               <item>William Wilkin.</item>
+               <item>Ed: Ryland.</item>
+               <item>Io: Falconer.</item>
+               <item>Io: Hamilton.</item>
+               <item>Io: Wood.</item>
+               <item>Io: Kemedie.</item>
+               <item>Iames Wilkie.</item>
+               <item>William Mackadam</item>
+               <item>Francis Ierwin.</item>
+               <item>Martin Luine.</item>
+               <item>Thomas Foster.</item>
+               <item>George Chambers.</item>
+               <item>William Meinzie.</item>
+               <item>Robert Stewart.</item>
+               <item>Iames Stewart.</item>
+               <item>Robert Wood.</item>
+               <item>Robert Millen.</item>
+               <item>Iohn Brown.</item>
+               <item>David Iohnstone.</item>
+               <item>Io: Leminton.</item>
+               <item>Alexander Forbes.</item>
+               <item>Iohn Hume <hi>quarter-master, wounded.</hi>
+               </item>
+               <item>Io: Hamilton.</item>
+               <item>Thomas Ogilby.</item>
+               <item>Alexander Lockard.</item>
+               <item>Iames Welch.</item>
+               <item>Io: Goston.</item>
+               <item>William Matthew.</item>
+               <item>Lyon Turner.</item>
+               <item>Thomas Dowle.</item>
+               <item>Allen Macakyn.</item>
+               <item>Io: Wilson.</item>
+            </list>
+         </div>
+         <div type="list">
+            <head>A List of the Kings Domestique Servants.</head>
+            <list>
+               <item>ANthony Jackson, <hi>Gentleman of his Privy Chamber.</hi>
+               </item>
+               <item>Doctor Cunningham, <hi>Physician.</hi>
+               </item>
+               <item>Thomas Freeman <hi>Gen<g ref="char:EOLhyphen"/>tleman-Ʋsher.</hi>
+               </item>
+               <item>
+                  <hi>Mr.</hi> Chute <hi>Apothecary.</hi>
+               </item>
+               <item>
+                  <hi>Mr.</hi> Mushie, <hi>Mr.</hi> Sayers <hi>Master-Cooks.</hi>
+               </item>
+               <item>
+                  <hi>Mr.</hi> Peachery <hi>Harbenger</hi>
+               </item>
+               <item>
+                  <hi>M.</hi> Shepherd <hi>Chaundry.</hi>
+               </item>
+               <item>
+                  <hi>Mr.</hi> Wilkery <hi>of the Spi<g ref="char:EOLhyphen"/>cery.</hi>
+               </item>
+               <item>Jo: George <hi>Catherer.</hi>
+               </item>
+               <item>
+                  <hi>Mr.</hi> Furnace <hi>Sadler.</hi>
+               </item>
+               <item>
+                  <hi>Mr.</hi> Filk.</item>
+               <item>
+                  <hi>Mr.</hi> Harding.</item>
+               <item>Jo: Davis <hi>Chirurgeon.</hi>
+               </item>
+               <item>Thomas Hall.</item>
+               <item>Alexander Hill.</item>
+               <item>Geo: Arnot, <hi>Page.</hi>
+               </item>
+               <item>Thomas Lysle, <hi>Barber.</hi>
+               </item>
+               <item>Ja: Shaw, <hi>Yeoman to the Carriages.</hi>
+               </item>
+               <item>William Huster.</item>
+               <item>Geo: M<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rray <hi>and</hi> Mat<g ref="char:EOLhyphen"/>thew Clerk, <hi>Coachmen.</hi>
+               </item>
+               <item>George Avery <hi>Sumpt<g ref="char:EOLhyphen"/>er-man.</hi>
+               </item>
+               <item>Richard Kelley <hi>and</hi> Jo: Forbes, <hi>Footmen.</hi>
+               </item>
+               <item>Jo: Williamson, <hi>Posti<g ref="char:EOLhyphen"/>lion.</hi>
+               </item>
+               <item>James Allison, <hi>Groom.</hi>
+               </item>
+               <item>
+                  <hi>M.</hi> Thomas Bray <hi>Groom of the Bed-chamber.</hi>
+               </item>
+               <item>Thomas Lisence <hi>Major of</hi> Worcester.</item>
+               <item>
+                  <hi>Mr.</hi> Ja: Bridges, <hi>Sheriff. Ministers.</hi>
+               </item>
+               <item>Robert Mercer.</item>
+               <item>James Merk.</item>
+               <item>Andrew Macgee.</item>
+               <item>Jo: Cartres.</item>
+               <item>Robert Blagloy.</item>
+               <item>David Liddal.</item>
+               <item>William Cloyd.</item>
+               <item>Jo: Wallice.</item>
+               <item>David Leech.</item>
+            </list>
+            <list>
+               <head>Chirurgeons.</head>
+               <item>Adam Darlie.</item>
+               <item>Jo: Forrest <hi>Chirurgeon to Duke</hi> Hamilton.</item>
+               <item>Robert Kendy <hi>to Lieut. General</hi> Middleton.</item>
+               <item>Walter Rosse <hi>to Lieut. General</hi> Lesley.</item>
+               <item>Jo: Davis, Thomas Hall, Jo: Chase, <hi>Apothecaries.</hi>
+               </item>
+            </list>
+            <list>
+               <head>Secretaries.</head>
+               <item>
+                  <hi>Mr.</hi> Richard Franshaw, <hi>Secretary to the King.</hi>
+               </item>
+            </list>
+            <list>
+               <head>Staff-Officers.</head>
+               <item>James Moor <hi>Commissa<g ref="char:EOLhyphen"/>ry of Provisions.</hi>
+               </item>
+            </list>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:115151:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
